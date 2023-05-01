@@ -15,3 +15,4 @@ This gives a tutorial of key recovery on AES-128 using Differential Power Analys
 
 # To do
 - Add a summary of theoretical explaination
+- Use matrix method to compute
